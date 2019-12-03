@@ -1,2 +1,1 @@
-# groupUp
-成长
+#github使用第一天
